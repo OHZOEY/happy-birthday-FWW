@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<img src="0"/>
+<img src="0.jpg "/>
 <h1>生日快乐</h1>
 <p>在这一年一度举国同庆的日子里</p>
 <p>李美璇在这里祝您生活愉快 阖家幸福</p>
